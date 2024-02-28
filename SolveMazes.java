@@ -1,6 +1,3 @@
-package hw2;
-
-// add SolveMazes program here
 import java.io.File;
 import java.nio.charset.StandardCharsets;
 import java.util.*;
